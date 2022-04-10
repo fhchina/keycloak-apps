@@ -1,0 +1,12 @@
+{
+    "clientId": "app-springboot",
+    "rootUrl": "http://app.modeldriven.io:8080/app-springboot",
+    "enabled": true,
+    "redirectUris": [
+        "http://app.modeldriven.io:8080/*"
+    ],
+    "webOrigins": [
+        "http://app.modeldriven.io:8080"
+    ],
+    "publicClient": true
+}
